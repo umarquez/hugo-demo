@@ -87,3 +87,5 @@ fields:
     max: 
     labelField: 
   label: Skills
+pages:
+- content/software-engineer.md
