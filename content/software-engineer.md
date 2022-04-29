@@ -1,6 +1,5 @@
 +++
 abstract = "I'm a Sr. Software Engineer with 6 years of experience working on AR/VR projects as tech lead and trai"
-draft = true
 full_name = "John Doe"
 profile_pic = "/uploads/image-w856.webp"
 title = "Software Engineer"
