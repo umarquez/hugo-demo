@@ -88,4 +88,4 @@ fields:
     labelField: 
   label: Skills
 pages:
-- content/software-engineer.md
+- content/_index.md
